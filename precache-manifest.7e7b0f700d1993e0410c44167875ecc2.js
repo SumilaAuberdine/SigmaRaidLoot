@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3b83e89bde06490e84457c6a40825ae4",
+    "revision": "c24fa8280f529c29d9e1212a9fee7691",
     "url": "/SigmaRaidLoot/index.html"
   },
   {
-    "revision": "303b09e08c06b14059c3",
+    "revision": "ddf173e5150a9dabd09a",
     "url": "/SigmaRaidLoot/static/css/2.1afe660f.chunk.css"
   },
   {
-    "revision": "6a2d11b29e872eaae719",
+    "revision": "58bbd318e98482d32477",
     "url": "/SigmaRaidLoot/static/css/main.523f09c5.chunk.css"
   },
   {
-    "revision": "303b09e08c06b14059c3",
-    "url": "/SigmaRaidLoot/static/js/2.57319bf1.chunk.js"
+    "revision": "ddf173e5150a9dabd09a",
+    "url": "/SigmaRaidLoot/static/js/2.f01d7429.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/SigmaRaidLoot/static/js/2.57319bf1.chunk.js.LICENSE.txt"
+    "url": "/SigmaRaidLoot/static/js/2.f01d7429.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6a2d11b29e872eaae719",
-    "url": "/SigmaRaidLoot/static/js/main.57c48448.chunk.js"
+    "revision": "58bbd318e98482d32477",
+    "url": "/SigmaRaidLoot/static/js/main.4024dde5.chunk.js"
   },
   {
     "revision": "462f4236a2c561c9c333",

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/SigmaRaidLoot/precache-manifest.55618d2a3a7f98c1e6437a349b1ea6ba.js"
+  "/SigmaRaidLoot/precache-manifest.7e7b0f700d1993e0410c44167875ecc2.js"
 );
 
 self.addEventListener('message', (event) => {
