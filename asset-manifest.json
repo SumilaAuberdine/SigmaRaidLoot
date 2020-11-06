@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/SigmaRaidLoot/static/css/main.523f09c5.chunk.css",
-    "main.js": "/SigmaRaidLoot/static/js/main.36f6096f.chunk.js",
-    "main.js.map": "/SigmaRaidLoot/static/js/main.36f6096f.chunk.js.map",
+    "main.js": "/SigmaRaidLoot/static/js/main.57c48448.chunk.js",
+    "main.js.map": "/SigmaRaidLoot/static/js/main.57c48448.chunk.js.map",
     "runtime-main.js": "/SigmaRaidLoot/static/js/runtime-main.3ad8a2bb.js",
     "runtime-main.js.map": "/SigmaRaidLoot/static/js/runtime-main.3ad8a2bb.js.map",
     "static/css/2.1afe660f.chunk.css": "/SigmaRaidLoot/static/css/2.1afe660f.chunk.css",
     "static/js/2.57319bf1.chunk.js": "/SigmaRaidLoot/static/js/2.57319bf1.chunk.js",
     "static/js/2.57319bf1.chunk.js.map": "/SigmaRaidLoot/static/js/2.57319bf1.chunk.js.map",
     "index.html": "/SigmaRaidLoot/index.html",
-    "precache-manifest.b5183516a867f71740e14a609ae2f457.js": "/SigmaRaidLoot/precache-manifest.b5183516a867f71740e14a609ae2f457.js",
+    "precache-manifest.55618d2a3a7f98c1e6437a349b1ea6ba.js": "/SigmaRaidLoot/precache-manifest.55618d2a3a7f98c1e6437a349b1ea6ba.js",
     "service-worker.js": "/SigmaRaidLoot/service-worker.js",
     "static/css/2.1afe660f.chunk.css.map": "/SigmaRaidLoot/static/css/2.1afe660f.chunk.css.map",
     "static/css/main.523f09c5.chunk.css.map": "/SigmaRaidLoot/static/css/main.523f09c5.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.1afe660f.chunk.css",
     "static/js/2.57319bf1.chunk.js",
     "static/css/main.523f09c5.chunk.css",
-    "static/js/main.36f6096f.chunk.js"
+    "static/js/main.57c48448.chunk.js"
   ]
 }
