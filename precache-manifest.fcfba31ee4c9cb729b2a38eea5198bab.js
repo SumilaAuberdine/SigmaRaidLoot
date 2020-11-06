@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c24fa8280f529c29d9e1212a9fee7691",
+    "revision": "dc1086b950dd4714cbbd283eefb968a3",
     "url": "/SigmaRaidLoot/index.html"
   },
   {
