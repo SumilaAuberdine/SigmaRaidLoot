@@ -1,0 +1,18 @@
+{
+    "Gilet d'exécution rapide" : {
+        "raid": "AQ40",
+        "bosses": ["Seigneur Kri"]
+    },
+    "Anneau du dévoré" : {
+        "raid": "AQ40",
+        "bosses": ["Seigneur Kri"]
+    },
+    "Scarabée pétrifié" : {
+        "raid": "AQ40",
+        "bosses": ["Seigneur Kri"]
+    },
+    "Baguette de noblesse qiraji" : {
+        "raid": "AQ40",
+        "bosses": ["Seigneur Kri"]
+    }
+}

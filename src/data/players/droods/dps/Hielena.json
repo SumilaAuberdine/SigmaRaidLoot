@@ -1,0 +1,92 @@
+{
+  "name": "Hielena",
+  "class": "Druide",
+  "spe": "DPS",
+  "wishlist": {
+    "head": {
+      "item": "Casque tête de loup",
+      "priority": 0,
+      "acquired": true
+    },
+    "neck": {
+      "item": "Talisman de perfidie de prestor",
+      "priority": 1,
+      "acquired": false
+    },
+    "shoulders": {
+      "item": "Mantelet de vengeance cruelle",
+      "priority": 1,
+      "acquired": false
+    },
+    "back": {
+      "item": "Cape de concentré de haine",
+      "priority": 0,
+      "acquired": true
+    },
+    "chest": {
+      "item": "Gilet d'exécution rapide",
+      "priority": 1,
+      "acquired": false
+    },
+    "wrists": {
+      "item": "Brassards d'exécution quiraji",
+      "priority": 2,
+      "acquired": false
+    },
+    "hands": {
+      "item": "Gants de coercition",
+      "priority": 3,
+      "acquired": false
+    },
+    "waist": {
+      "item": "Ceinture d'agonie sans fin",
+      "priority": 2,
+      "acquired": false
+    },
+    "legs": {
+      "item": "Jambière abysalles en cuir",
+      "priority": 0,
+      "acquired": true
+    },
+    "feet": {
+      "item": "Bottes de l'avant-garde",
+      "priority": 1,
+      "acquired": false
+    },
+    "ring1": {
+      "item": "Anneau de Précisia",
+      "priority": 0,
+      "acquired": true
+    },
+    "ring2": {
+      "item": "Cercle de la force appliquée",
+      "priority": 0,
+      "acquired": true
+    },
+    "trinket1": {
+      "item": "Talisman croc-de-drake",
+      "priority": 0,
+      "acquired": true
+    },
+    "trinket2": {
+      "item": "Main de Justice",
+      "priority": 0,
+      "acquired": true
+    },
+    "mainhand": {
+      "item": "Griffe de silithide",
+      "priority": 0,
+      "acquired": true
+    },
+    "offhand": {
+      "item": "Tome de Connaissance",
+      "priority": 0,
+      "acquired": true
+    },
+    "ranged": {
+      "item": "Idole de férocité",
+      "priority": 2,
+      "acquired": false
+    }
+  }
+}

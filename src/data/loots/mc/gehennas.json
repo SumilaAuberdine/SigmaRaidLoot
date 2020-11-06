@@ -1,0 +1,26 @@
+{
+    "Gantelets Rageterre" : {
+        "raid": "MC",
+        "bosses": ["Gehennas"]
+    },
+    "Bottes de traqueur de géant" : {
+        "raid": "MC",
+        "bosses": ["Gehennas"]
+    },
+    "Gants de prophétie" : {
+        "raid": "MC",
+        "bosses": ["Gehennas"]
+    },
+    "Gantelets judiciaires" : {
+        "raid": "MC",
+        "bosses": ["Gehennas"]
+    },
+    "Gants du tueur de la nuit" : {
+        "raid": "MC",
+        "bosses": ["Gehennas"]
+    },
+    "Sandales de puissance" : {
+        "raid": "MC",
+        "bosses": ["Gehennas"]
+    }
+}

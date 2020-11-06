@@ -1,0 +1,14 @@
+{
+    "Dent de Renataki" : {
+        "raid": "ZG",
+        "bosses": ["Renataki"]
+    },
+    "Fourche de la folie" : {
+        "raid": "ZG",
+        "bosses": ["Renataki"]
+    },
+    "Conducteur d'âme de Renataki" : {
+        "raid": "ZG",
+        "bosses": ["Renataki"]
+    }
+}

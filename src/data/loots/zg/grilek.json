@@ -1,0 +1,14 @@
+{
+    "Sang de Gri'lek" : {
+        "raid": "ZG",
+        "bosses": ["Gri'lek"]
+    },
+    "Découpeur de Gri'lek" : {
+        "raid": "ZG",
+        "bosses": ["Gri'lek"]
+    },
+    "Broyeur de Gri'lek" : {
+        "raid": "ZG",
+        "bosses": ["Gri'lek"]
+    }
+}

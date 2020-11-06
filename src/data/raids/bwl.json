@@ -1,0 +1,28 @@
+{
+    "bosses": [
+        {
+            "name": "Tranchetripe l'Indompté"
+        },
+        {
+            "name": "Vaelastrasz le Corrompu"
+        },
+        {
+            "name": "Seigneur des couvées Lashlayer"
+        },
+        {
+            "name": "Gueule-de-feu"
+        },
+        {
+            "name": "Rochébène"
+        },
+        {
+            "name": "Flamegor"
+        },
+        {
+            "name": "Chromaggus"
+        },
+        {
+            "name": "Nefarian"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "Arc du boyau tendu" : {
+        "raid": "AQ20",
+        "bosses": ["Ayamiss le Chasseur"]
+    },
+    "Gantelets de l'Inébranlable" : {
+        "raid": "AQ20",
+        "bosses": ["Ayamiss le Chasseur"]
+    },
+    "Aiguillon d'Ayamiss" : {
+        "raid": "AQ20",
+        "bosses": ["Ayamiss le Chasseur"]
+    },
+    "Bottes du protecteur du désert" : {
+        "raid": "AQ20",
+        "bosses": ["Ayamiss le Chasseur"]
+    },
+    "Bottes des sables brûlants" : {
+        "raid": "AQ20",
+        "bosses": ["Ayamiss le Chasseur"]
+    },
+    "Casque de rétablissement" : {
+        "raid": "AQ20",
+        "bosses": ["Ayamiss le Chasseur"]
+    },
+    "Anneau des vents du désert" : {
+        "raid": "AQ20",
+        "bosses": ["Ayamiss le Chasseur"]
+    },
+    "Gantelets d'écailles silithide" : {
+        "raid": "AQ20",
+        "bosses": ["Ayamiss le Chasseur"]
+    }
+}

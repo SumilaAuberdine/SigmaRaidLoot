@@ -1,0 +1,26 @@
+{
+    "Croc de Venoxis" : {
+        "raid": "ZG",
+        "bosses": ["Grand prêtre Venoxis"]
+    },
+    "Haubert runique taché de sang" : {
+        "raid": "ZG",
+        "bosses": ["Grand prêtre Venoxis"]
+    },
+    "Bottes inondées de sang" : {
+        "raid": "ZG",
+        "bosses": ["Grand prêtre Venoxis"]
+    },
+    "Anneau de Zanzil" : {
+        "raid": "ZG",
+        "bosses": ["Grand prêtre Venoxis"]
+    },
+    "Hache de pierre zulienne" : {
+        "raid": "ZG",
+        "bosses": ["Grand prêtre Venoxis"]
+    },
+    "Cape zulienne en peau de tigre" : {
+        "raid": "ZG",
+        "bosses": ["Grand prêtre Venoxis"]
+    }
+}

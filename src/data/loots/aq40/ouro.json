@@ -1,0 +1,34 @@
+{
+    "Brassards de fouisseur" : {
+        "raid": "AQ40",
+        "bosses": ["Ouro"]
+    },
+    "Chapeau égaré de Don Rigoberto" : {
+        "raid": "AQ40",
+        "bosses": ["Ouro"]
+    },
+    "Jom Gabbar" : {
+        "raid": "AQ40",
+        "bosses": ["Ouro"]
+    },
+    "Larve du Grand ver" : {
+        "raid": "AQ40",
+        "bosses": ["Ouro"]
+    },
+    "La Carapace du fouisseur" : {
+        "raid": "AQ40",
+        "bosses": ["Ouro"]
+    },
+    "Bouclier en écailles de ver" : {
+        "raid": "AQ40",
+        "bosses": ["Ouro"]
+    },
+    "Peau intacte d'Ouro" : {
+        "raid": "AQ40",
+        "bosses": ["Ouro"]
+    },
+    "Peau du Grand ver des sables" : {
+        "raid": "AQ40",
+        "bosses": ["Ouro"]
+    }
+}

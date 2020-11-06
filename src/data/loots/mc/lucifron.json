@@ -1,0 +1,34 @@
+{
+    "Bottes d'arcaniste" : {
+        "raid": "MC",
+        "bosses": ["Lucifron"]
+    },
+    "Collier d'illumination" : {
+        "raid": "MC",
+        "bosses": ["Lucifron"]
+    },
+    "Bottes cénariennes" : {
+        "raid": "MC",
+        "bosses": ["Lucifron"]
+    },
+    "Gants de Gangrecoeur" : {
+        "raid": "MC",
+        "bosses": ["Lucifron"]
+    },
+    "Bottes judiciaires" : {
+        "raid": "MC",
+        "bosses": ["Lucifron"]
+    },
+    "Gantelets de puissance" : {
+        "raid": "MC",
+        "bosses": ["Lucifron"]
+    },
+    "Bottes Rageterre" : {
+        "raid": "MC",
+        "bosses": ["Lucifron"]
+    },
+    "Tome de Tir tranquillisant" : {
+        "raid": "MC",
+        "bosses": ["Lucifron"]
+    }
+}

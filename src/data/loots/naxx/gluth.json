@@ -1,0 +1,26 @@
+{
+    "Main de pouvoir digérée" : {
+        "raid": "NAXX",
+        "bosses": ["Gluth"]
+    },
+    "Mantelet couvert de gel" : {
+        "raid": "NAXX",
+        "bosses": ["Gluth"]
+    },
+    "La fin des rêves" : {
+        "raid": "NAXX",
+        "bosses": ["Gluth"]
+    },
+    "Claymore de puissance impie" : {
+        "raid": "NAXX",
+        "bosses": ["Gluth"]
+    },
+    "Collier perdu de Gluth" : {
+        "raid": "NAXX",
+        "bosses": ["Gluth"]
+    },
+    "Pacte de la mort" : {
+        "raid": "AQ40",
+        "bosses": ["Gluth"]
+    }
+}

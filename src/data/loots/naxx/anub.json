@@ -1,0 +1,22 @@
+{
+    "Bague des prières inexaucées" : {
+        "raid": "NAXX",
+        "bosses": ["Anub'Rekhan"]
+    },
+    "Cape en soie de démon des cryptes" : {
+        "raid": "NAXX",
+        "bosses": ["Anub'Rekhan"]
+    },
+    "Gemme de Nérubis" : {
+        "raid": "NAXX",
+        "bosses": ["Anub'Rekhan"]
+    },
+    "Larme de givre" : {
+        "raid": "NAXX",
+        "bosses": ["Anub'Rekhan"]
+    },
+    "Garde-poignets de vengeance" : {
+        "raid": "NAXX",
+        "bosses": ["Anub'Rekhan"]
+    }
+}

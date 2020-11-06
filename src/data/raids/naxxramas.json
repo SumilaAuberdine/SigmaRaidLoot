@@ -1,0 +1,49 @@
+{
+    "bosses": [
+        {
+            "name": "Anub'Rekhan"
+        },
+        {
+            "name": "Grande veuve Faerlina"
+        },
+        {
+            "name": "Maexxna"
+        },
+        {
+            "name": "Instructeur Razuvious"
+        },
+        {
+            "name": "Gothik le Moissonneur"
+        },
+        {
+            "name": "Les quatre cavaliers"
+        },
+        {
+            "name": "Noth le Porte-peste"
+        },
+        {
+            "name": "Heigan l'Impur"
+        },
+        {
+            "name": "Horreb"
+        },
+        {
+            "name": "Le Recousu"
+        },
+        {
+            "name": "Grobbulus"
+        },
+        {
+            "name": "Gluth"
+        },
+        {
+            "name": "Thaddius"
+        },
+        {
+            "name": "Saphiron"
+        },
+        {
+            "name": "Kel'Thuzad"
+        }
+    ]
+}

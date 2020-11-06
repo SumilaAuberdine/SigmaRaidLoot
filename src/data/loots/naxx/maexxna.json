@@ -1,0 +1,34 @@
+{
+    "Robe de toile cristalline" : {
+        "raid": "NAXX",
+        "bosses": ["Maexxna"]
+    },
+    "Baiser de l'araignée" : {
+        "raid": "NAXX",
+        "bosses": ["Maexxna"]
+    },
+    "Croc de Maexxna" : {
+        "raid": "NAXX",
+        "bosses": ["Maexxna"]
+    },
+    "Pendentif des noms oubliés" : {
+        "raid": "NAXX",
+        "bosses": ["Maexxna"]
+    },
+    "Lame en peine" : {
+        "raid": "NAXX",
+        "bosses": ["Maexxna"]
+    },
+    "Gantelets désacralisés" : {
+        "raid": "NAXX",
+        "bosses": ["Maexxna"]
+    },
+    "Gants désacralisés" : {
+        "raid": "NAXX",
+        "bosses": ["Maexxna"]
+    },
+    "Garde-mains désacralisés" : {
+        "raid": "NAXX",
+        "bosses": ["Maexxna"]
+    }
+}

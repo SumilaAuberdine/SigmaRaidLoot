@@ -1,0 +1,58 @@
+{
+    "Couronne d'arcaniste" : {
+        "raid": "MC",
+        "bosses": ["Garr"]
+    },
+    "Marteau d'Aurastone" : {
+        "raid": "MC",
+        "bosses": ["Garr"]
+    },
+    "Lame de brutalité" : {
+        "raid": "MC",
+        "bosses": ["Garr"]
+    },
+    "Casque cénarien" : {
+        "raid": "MC",
+        "bosses": ["Garr"]
+    },
+    "Collerette de prophétie" : {
+        "raid": "MC",
+        "bosses": ["Garr"]
+    },
+    "Disque Drillborer" : {
+        "raid": "MC",
+        "bosses": ["Garr"]
+    },
+    "Casque Rageterre" : {
+        "raid": "MC",
+        "bosses": ["Garr"]
+    },
+    "Cornes de Gangrecoeur" : {
+        "raid": "MC",
+        "bosses": ["Garr"]
+    },
+    "Casque de traqueur de géant" : {
+        "raid": "MC",
+        "bosses": ["Garr"]
+    },
+    "Déchireur de Gutgore" : {
+        "raid": "MC",
+        "bosses": ["Garr"]
+    },
+    "Casque de puissance" : {
+        "raid": "MC",
+        "bosses": ["Garr"]
+    },
+    "Heaume judiciaire" : {
+        "raid": "MC",
+        "bosses": ["Garr"]
+    },
+    "Couvre-chef du tueur de la nuit" : {
+        "raid": "MC",
+        "bosses": ["Garr"]
+    },
+    "Liens du Cherchevent - Garr" : {
+        "raid": "MC",
+        "bosses": ["Garr"]
+    }
+}

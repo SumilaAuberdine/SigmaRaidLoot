@@ -1,0 +1,30 @@
+{
+    "Amulette de Vek'nilash" : {
+        "raid": "AQ40",
+        "bosses": ["Empereur Vek'nilash"]
+    },
+    "Ceinture de l'empereur déchu" : {
+        "raid": "AQ40",
+        "bosses": ["Empereur Vek'nilash"]
+    },
+    "Bracelets de rédemption royale" : {
+        "raid": "AQ40",
+        "bosses": ["Empereur Vek'nilash"]
+    },
+    "Gants du temple caché" : {
+        "raid": "AQ40",
+        "bosses": ["Empereur Vek'nilash"]
+    },
+    "Torsade de l'empereur déchu" : {
+        "raid": "AQ40",
+        "bosses": ["Empereur Vek'nilash"]
+    },
+    "Vengeance de Kalimdor" : {
+        "raid": "AQ40",
+        "bosses": ["Empereur Vek'nilash"]
+    },
+    "Diadème de Vek'nilash" : {
+        "raid": "AQ40",
+        "bosses": ["Empereur Vek'nilash"]
+    }
+}

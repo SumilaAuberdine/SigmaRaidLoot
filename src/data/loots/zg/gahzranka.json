@@ -1,0 +1,22 @@
+{
+    "Couvre-oeil de Dagharn" : {
+        "raid": "ZG",
+        "bosses": ["Gahz'ranka"]
+    },
+    "Exterminateur de poisson de Nat Pagle" : {
+        "raid": "ZG",
+        "bosses": ["Gahz'ranka"]
+    },
+    "Moulinet cassé de Nat Pagle" : {
+        "raid": "ZG",
+        "bosses": ["Gahz'ranka"]
+    },
+    "Harpon d'Aguilor" : {
+        "raid": "ZG",
+        "bosses": ["Gahz'ranka"]
+    },
+    "Tome de métamorphose : Tortue" : {
+        "raid": "ZG",
+        "bosses": ["Gahz'ranka"]
+    }
+}

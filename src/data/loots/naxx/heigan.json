@@ -1,0 +1,22 @@
+{
+    "Cuissots de carnage" : {
+        "raid": "NAXX",
+        "bosses": ["Heigan l'Impur"]
+    },
+    "Camail glacécaille" : {
+        "raid": "NAXX",
+        "bosses": ["Heigan l'Impur"]
+    },
+    "Chapeau de précepteur" : {
+        "raid": "NAXX",
+        "bosses": ["Heigan l'Impur"]
+    },
+    "Heaume plaie-de-glace" : {
+        "raid": "NAXX",
+        "bosses": ["Heigan l'Impur"]
+    },
+    "Collier de nécropsie" : {
+        "raid": "NAXX",
+        "bosses": ["Heigan l'Impur"]
+    }
+}

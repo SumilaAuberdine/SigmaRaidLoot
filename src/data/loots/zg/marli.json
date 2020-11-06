@@ -1,0 +1,26 @@
+{
+    "Robe rituelle flottante" : {
+        "raid": "ZG",
+        "bosses": ["Grande prêtresse Mar'li"]
+    },
+    "Toucher de Mar'li" : {
+        "raid": "ZG",
+        "bosses": ["Grande prêtresse Mar'li"]
+    },
+    "Grèves tachées de sang" : {
+        "raid": "ZG",
+        "bosses": ["Grande prêtresse Mar'li"]
+    },
+    "Oeil de Mar'li" : {
+        "raid": "ZG",
+        "bosses": ["Grande prêtresse Mar'li"]
+    },
+    "Anneau de Jin" : {
+        "raid": "ZG",
+        "bosses": ["Grande prêtresse Mar'li"]
+    },
+    "Talisman de protection" : {
+        "raid": "ZG",
+        "bosses": ["Grande prêtresse Mar'li"]
+    }
+}

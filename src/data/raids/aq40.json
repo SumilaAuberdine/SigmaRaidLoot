@@ -1,0 +1,40 @@
+{
+    "bosses": [
+        {
+            "name": "Le Prophète Skeram"
+        },
+        {
+            "name": "Princesse Yauj"
+        },
+        {
+            "name": "Vem"
+        },
+        {
+            "name": "Seigneur Kri"
+        },
+        {
+            "name": "Garde de guerre Sartura"
+        },
+        {
+            "name": "Fankriss l'Inflexible"
+        },
+        {
+            "name": "Princesse Huhuran"
+        },
+        {
+            "name": "Empereur Vek'lor"
+        },
+        {
+            "name": "Empereur Vek'nilash"
+        },
+        {
+            "name": "Ouro"
+        },
+        {
+            "name": "C'Thun"
+        },
+        {
+            "name": "Viscidus"
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "Jambières d'arcaniste" : {
+        "raid": "MC",
+        "bosses": ["Magmadar"]
+    },
+    "Jambières cénariennes" : {
+        "raid": "MC",
+        "bosses": ["Magmadar"]
+    },
+    "Jambières Rageterre" : {
+        "raid": "MC",
+        "bosses": ["Magmadar"]
+    },
+    "Trembleterre" : {
+        "raid": "MC",
+        "bosses": ["Magmadar"]
+    },
+    "Griffe droite d'Eskhandar" : {
+        "raid": "MC",
+        "bosses": ["Magmadar"]
+    },
+    "Pantalon de Gangrecoeur" : {
+        "raid": "MC",
+        "bosses": ["Magmadar"]
+    },
+    "Jambières de traqueur de géant" : {
+        "raid": "MC",
+        "bosses": ["Magmadar"]
+    },
+    "Jambières judiciaires" : {
+        "raid": "MC",
+        "bosses": ["Magmadar"]
+    },
+    "Jambières de puissance" : {
+        "raid": "MC",
+        "bosses": ["Magmadar"]
+    },
+    "Médaillon de Puissance inébranlable" : {
+        "raid": "MC",
+        "bosses": ["Magmadar"]
+    },
+    "Pantalon du tueur de la nuit" : {
+        "raid": "MC",
+        "bosses": ["Magmadar"]
+    },
+    "Pantalon de prophétie" : {
+        "raid": "MC",
+        "bosses": ["Magmadar"]
+    },
+    "Marque du Frappeur" : {
+        "raid": "MC",
+        "bosses": ["Magmadar"]
+    }
+}

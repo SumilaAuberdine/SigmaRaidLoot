@@ -1,0 +1,30 @@
+{
+    "Bottes du traître" : {
+        "raid": "ZG",
+        "bosses": ["Grand prêtre Thekal"]
+    },
+    "Poing de Thekal" : {
+        "raid": "ZG",
+        "bosses": ["Grand prêtre Thekal"]
+    },
+    "Jambières de garde-paix" : {
+        "raid": "ZG",
+        "bosses": ["Grand prêtre Thekal"]
+    },
+    "Cuissards ritualistes" : {
+        "raid": "ZG",
+        "bosses": ["Grand prêtre Thekal"]
+    },
+    "Jambières Furie-des-mers" : {
+        "raid": "ZG",
+        "bosses": ["Grand prêtre Thekal"]
+    },
+    "Sceau de Jin" : {
+        "raid": "ZG",
+        "bosses": ["Grand prêtre Thekal"]
+    },
+    "Hachoir zulien" : {
+        "raid": "ZG",
+        "bosses": ["Grand prêtre Thekal"]
+    }
+}

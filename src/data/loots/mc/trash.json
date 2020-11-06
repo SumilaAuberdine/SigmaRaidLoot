@@ -1,0 +1,67 @@
+{
+    
+    "Ceinture cénarienne" : {
+        "raid": "MC",
+        "bosses": ["Trash"]
+    },
+    "Ceinture de traqueur de géant" : {
+        "raid": "MC",
+        "bosses": ["Trash"]
+    },
+    "Ceinture d'arcaniste" : {
+        "raid": "MC",
+        "bosses": ["Trash"]
+    },
+    "Ceinture judiciaire" : {
+        "raid": "MC",
+        "bosses": ["Trash"]
+    },
+    "Ceinturon de prophétie" : {
+        "raid": "MC",
+        "bosses": ["Trash"]
+    },
+    "Ceinture du tueur de la nuit" : {
+        "raid": "MC",
+        "bosses": ["Trash"]
+    },
+    "Ceinture Rageterre" : {
+        "raid": "MC",
+        "bosses": ["Trash"]
+    },
+    "Ceinture de Gangrecoeur" : {
+        "raid": "MC",
+        "bosses": ["Trash"]
+    },
+    "Brassards cénariens" : {
+        "raid": "MC",
+        "bosses": ["Trash"]
+    },
+    "Brassards de traqueur de géant" : {
+        "raid": "MC",
+        "bosses": ["Trash"]
+    },
+    "Manchettes d'arcaniste" : {
+        "raid": "MC",
+        "bosses": ["Trash"]
+    },
+    "Brassards judiciaires" : {
+        "raid": "MC",
+        "bosses": ["Trash"]
+    },
+    "Protège-bras de prophétie" : {
+        "raid": "MC",
+        "bosses": ["Trash"]
+    },
+    "Bracelets du tueur de la nuit" : {
+        "raid": "MC",
+        "bosses": ["Trash"]
+    },
+    "Brassards Rageterre" : {
+        "raid": "MC",
+        "bosses": ["Trash"]
+    },
+    "Brassards de Gangrecoeur" : {
+        "raid": "MC",
+        "bosses": ["Trash"]
+    }
+}

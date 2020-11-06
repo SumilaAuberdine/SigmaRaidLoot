@@ -1,0 +1,62 @@
+{
+    "Ceinture de Vent du néant" : {
+        "raid": "BWL",
+        "bosses": ["Vaelastrasz le Corrompu"]
+    },
+    "Ceinture de Stormrage" : {
+        "raid": "BWL",
+        "bosses": ["Vaelastrasz le Corrompu"]
+    },
+    "Ceinture de Némésis" : {
+        "raid": "BWL",
+        "bosses": ["Vaelastrasz le Corrompu"]
+    },
+    "Ceinture du jugement" : {
+        "raid": "BWL",
+        "bosses": ["Vaelastrasz le Corrompu"]
+    },
+    "Baudrier de courroux" : {
+        "raid": "BWL",
+        "bosses": ["Vaelastrasz le Corrompu"]
+    },
+    "Ceinture des dix tempêtes" : {
+        "raid": "BWL",
+        "bosses": ["Vaelastrasz le Corrompu"]
+    },
+    "Ceinture de traqueur de dragon" : {
+        "raid": "BWL",
+        "bosses": ["Vaelastrasz le Corrompu"]
+    },
+    "Ceinture Rougecroc" : {
+        "raid": "BWL",
+        "bosses": ["Vaelastrasz le Corrompu"]
+    },
+    "Ceinture de transcendance" : {
+        "raid": "BWL",
+        "bosses": ["Vaelastrasz le Corrompu"]
+    },
+    "Gemme de vivacité d'esprit" : {
+        "raid": "BWL",
+        "bosses": ["Vaelastrasz le Corrompu"]
+    },
+    "Rune de transformation" : {
+        "raid": "BWL",
+        "bosses": ["Vaelastrasz le Corrompu"]
+    },
+    "Pendentif du dragon déchu" : {
+        "raid": "BWL",
+        "bosses": ["Vaelastrasz le Corrompu"]
+    },
+    "Heaume de la rage infinie" : {
+        "raid": "BWL",
+        "bosses": ["Vaelastrasz le Corrompu"]
+    },
+    "Lame croc-de-dragon" : {
+        "raid": "BWL",
+        "bosses": ["Vaelastrasz le Corrompu"]
+    },
+    "Protecteur en écailles de dragon rouge" : {
+        "raid": "BWL",
+        "bosses": ["Vaelastrasz le Corrompu"]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "Baguette de la mort murmurante" : {
+        "raid": "NAXX",
+        "bosses": ["Instructeur Razuvious"]
+    },
+    "Chevalière du défenseur déchu" : {
+        "raid": "NAXX",
+        "bosses": ["Instructeur Razuvious"]
+    },
+    "Idole de longévité" : {
+        "raid": "NAXX",
+        "bosses": ["Instructeur Razuvious"]
+    },
+    "Ceinturon du mentor" : {
+        "raid": "NAXX",
+        "bosses": ["Instructeur Razuvious"]
+    },
+    "Voile de l'éclipse" : {
+        "raid": "NAXX",
+        "bosses": ["Instructeur Razuvious"]
+    },
+    "Iblis, lame du Séraphin déchu" : {
+        "raid": "NAXX",
+        "bosses": ["Instructeur Razuvious"]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "Crinière de Wushoolay" : {
+        "raid": "ZG",
+        "bosses": ["Wushoolay"]
+    },
+    "Arc de chasse porte-guigne" : {
+        "raid": "ZG",
+        "bosses": ["Wushoolay"]
+    },
+    "Tisonnier de Wushoolay" : {
+        "raid": "ZG",
+        "bosses": ["Wushoolay"]
+    }
+}

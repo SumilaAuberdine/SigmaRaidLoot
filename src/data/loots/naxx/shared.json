@@ -1,0 +1,98 @@
+{
+    "Protège-poignets désacralisés" : {
+        "raid": "NAXX",
+        "bosses": [
+            "Anub'Rekhan",
+            "Grande veuve Faerlina",
+            "Gluth"
+        ]
+    },
+    "Brassards désacralisées" : {
+        "raid": "NAXX",
+        "bosses": [
+            "Anub'Rekhan",
+            "Grande veuve Faerlina",
+            "Gluth"
+        ]
+    },
+    "Manchettes désacralisées" : {
+        "raid": "NAXX",
+        "bosses": [
+            "Anub'Rekhan",
+            "Grande veuve Faerlina",
+            "Gluth"
+        ]
+    },
+    "Ceinturon désacralisé" : {
+        "raid": "NAXX",
+        "bosses": [
+            "Noth le Porte-peste",
+            "Heigan l'Impur",
+            "Gluth"
+        ]
+    },
+    "Ceinture désacralisée" : {
+        "raid": "NAXX",
+        "bosses": [
+            "Noth le Porte-peste",
+            "Heigan l'Impur",
+            "Gluth"
+        ]
+    },
+    "Sangle désacralisée" : {
+        "raid": "NAXX",
+        "bosses": [
+            "Noth le Porte-peste",
+            "Heigan l'Impur",
+            "Gluth"
+        ]
+    },
+    "Sandales désacralisées" : {
+        "raid": "NAXX",
+        "bosses": [
+            "Instructeur Razuvious",
+            "Gothik le Moissonneur",
+            "Gluth"
+        ]
+    },
+    "Bottes désacralisées" : {
+        "raid": "NAXX",
+        "bosses": [
+            "Instructeur Razuvious",
+            "Gothik le Moissonneur",
+            "Gluth"
+        ]
+    },
+    "Solerets désacralisés" : {
+        "raid": "NAXX",
+        "bosses": [
+            "Instructeur Razuvious",
+            "Gothik le Moissonneur",
+            "Gluth"
+        ]
+    },
+    "Espauliers désacralisés" : {
+        "raid": "NAXX",
+        "bosses": [
+            "Le Recousu",
+            "Grobbulus",
+            "Gluth"
+        ]
+    },
+    "Protège-épaules désacralisés" : {
+        "raid": "NAXX",
+        "bosses": [
+            "Le Recousu",
+            "Grobbulus",
+            "Gluth"
+        ]
+    },
+    "Spallières désacralisées" : {
+        "raid": "NAXX",
+        "bosses": [
+            "Le Recousu",
+            "Grobbulus",
+            "Gluth"
+        ]
+    }
+}

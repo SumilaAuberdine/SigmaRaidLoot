@@ -1,0 +1,26 @@
+{
+    "Cape de la Ruche d'or" : {
+        "raid": "AQ40",
+        "bosses": ["Princesse Huhuran"]
+    },
+    "Gants du messie" : {
+        "raid": "AQ40",
+        "bosses": ["Princesse Huhuran"]
+    },
+    "Garde-poignets de profanateur de ruche" : {
+        "raid": "AQ40",
+        "bosses": ["Princesse Huhuran"]
+    },
+    "Aiguillon d'Huhuran" : {
+        "raid": "AQ40",
+        "bosses": ["Princesse Huhuran"]
+    },
+    "Anneau du martyr" : {
+        "raid": "AQ40",
+        "bosses": ["Princesse Huhuran"]
+    },
+    "Gantelets en peau de guêpe" : {
+        "raid": "AQ40",
+        "bosses": ["Princesse Huhuran"]
+    }
+}

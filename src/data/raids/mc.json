@@ -1,0 +1,34 @@
+{
+    "bosses": [
+        {
+            "name": "Lucifron"
+        },
+        {
+            "name": "Magmadar"
+        },
+        {
+            "name": "Gehennas"
+        },
+        {
+            "name": "Garr"
+        },
+        {
+            "name": "Baron Geddon"
+        },
+        {
+            "name": "Shazzrah"
+        },
+        {
+            "name": "Golemagg l'Incinérateur"
+        },
+        {
+            "name": "Messager de Sulfuron"
+        },
+        {
+            "name": "Chambellan Executus"
+        },
+        {
+            "name": "Ragnaros"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "Massacreuse des Qiraji" : {
+        "raid": "AQ20",
+        "bosses": ["Général Rajaxx"]
+    },
+    "Bottes de l'avant-garde" : {
+        "raid": "AQ20",
+        "bosses": ["Général Rajaxx"]
+    },
+    "Bottes du général qiraji" : {
+        "raid": "AQ20",
+        "bosses": ["Général Rajaxx"]
+    },
+    "Brassards de commandement qiraji" : {
+        "raid": "AQ20",
+        "bosses": ["Général Rajaxx"]
+    },
+    "Cuissards du commandement qiraji" : {
+        "raid": "AQ20",
+        "bosses": ["Général Rajaxx"]
+    },
+    "Torsade de Sudevent" : {
+        "raid": "AQ20",
+        "bosses": ["Général Rajaxx"]
+    }
+}

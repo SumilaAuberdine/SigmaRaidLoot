@@ -1,0 +1,22 @@
+{
+    "Cape de suture" : {
+        "raid": "NAXX",
+        "bosses": ["Le Recousu"]
+    },
+    "Bague de réanimation" : {
+        "raid": "NAXX",
+        "bosses": ["Le Recousu"]
+    },
+    "Cisailleuse" : {
+        "raid": "NAXX",
+        "bosses": ["Le Recousu"]
+    },
+    "Baguette des Parques" : {
+        "raid": "NAXX",
+        "bosses": ["Le Recousu"]
+    },
+    "Le Porte-peste" : {
+        "raid": "NAXX",
+        "bosses": ["Le Recousu"]
+    }
+}

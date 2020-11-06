@@ -1,0 +1,92 @@
+{
+  "name": "Saluteur",
+  "class": "Guerrier",
+  "spe": "Tank",
+  "wishlist": {
+    "head": {
+      "item": "Diadème de Vek'nilash",
+      "priority": 2,
+      "acquired": false
+    },
+    "neck": {
+      "item": "Marque de C'Thun",
+      "priority": 5,
+      "acquired": false
+    },
+    "shoulders": {
+      "item": "Manchettes de commandement qiraji",
+      "priority": 0,
+      "acquired": true
+    },
+    "back": {
+      "item": "Cape de la ruche d'or",
+      "priority": 1,
+      "acquired": false
+    },
+    "chest": {
+      "item": "Carapace du Dieu très ancien",
+      "priority": 0,
+      "acquired": true
+    },
+    "wrists": {
+      "item": "Bracelets de brutalité",
+      "priority": 2,
+      "acquired": false
+    },
+    "hands": {
+      "item": "Gantelets de détermination inébranlable",
+      "priority": 4,
+      "acquired": false
+    },
+    "waist": {
+      "item": "Ceinture royale qiraji",
+      "priority": 4,
+      "acquired": false
+    },
+    "legs": {
+      "item": "Peau intacte d'Ouro",
+      "priority": 0,
+      "acquired": true
+    },
+    "feet": {
+      "item": "Manchettes de commandement qiraji",
+      "priority": 1,
+      "acquired": false
+    },
+    "ring1": {
+      "item": "Anneau du tueur de dieu",
+      "priority": 1,
+      "acquired": false
+    },
+    "ring2": {
+      "item": "Cercle de la force appliquée",
+      "priority": 2,
+      "acquired": false
+    },
+    "trinket1": {
+      "item": "Talisman croc-de-drake",
+      "priority": 0,
+      "acquired": true
+    },
+    "trinket2": {
+      "item": "Choc de terre",
+      "priority": 0,
+      "acquired": true
+    },
+    "mainhand": {
+      "item": "Epée trempée chromatiquement",
+      "priority": 1,
+      "acquired": false
+    },
+    "offhand": {
+      "item": "Maladath, lame runique du Vol noir",
+      "priority": 2,
+      "acquired": false
+    },
+    "ranged": {
+      "item": "Canon à main Souffle-de-dragon",
+      "priority": 0,
+      "acquired": true
+    }
+  }
+}

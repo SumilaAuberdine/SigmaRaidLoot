@@ -1,0 +1,22 @@
+{
+    "Mantelet de la puissance phrénique" : {
+        "raid": "AQ40",
+        "bosses": ["Princesse Yauj"]
+    },
+    "Gantelets couverts de bile" : {
+        "raid": "AQ40",
+        "bosses": ["Princesse Yauj"]
+    },
+    "Mantelet de la fureur du désert" : {
+        "raid": "AQ40",
+        "bosses": ["Princesse Yauj"]
+    },
+    "Mantelet de la croisade du désert" : {
+        "raid": "AQ40",
+        "bosses": ["Princesse Yauj"]
+    },
+    "Anneau de ténèbres d'Ukko" : {
+        "raid": "AQ40",
+        "bosses": ["Princesse Yauj"]
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "Coiffure glaciale" : {
+        "raid": "NAXX",
+        "bosses": ["Gothik le Moissonneur"]
+    },
+    "Casque polaire" : {
+        "raid": "NAXX",
+        "bosses": ["Gothik le Moissonneur"]
+    },
+    "Torque de sadique" : {
+        "raid": "NAXX",
+        "bosses": ["Gothik le Moissonneur"]
+    },
+    "Manchettes du moissonneur d'âmes" : {
+        "raid": "NAXX",
+        "bosses": ["Gothik le Moissonneur"]
+    }
+}

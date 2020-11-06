@@ -1,0 +1,112 @@
+{
+    "Armes impériales qiraji" : {
+        "raid": "AQ40",
+        "bosses": [
+            "Le Prophète Skeram",
+            "Princesse Yauj",
+            "Vem",
+            "Seigneur Kri",
+            "Garde de guerre Sartura",
+            "Fankriss l'Inflexible",
+            "Princesse Huhuran",
+            "Empereur Vek'lor",
+            "Empereur Vek'nilash",
+            "Ouro",
+            "Viscidus"
+        ]
+    },
+    "Tenue de parade impériale qiraji" : {
+        "raid": "AQ40",
+        "bosses": [
+            "Le Prophète Skeram",
+            "Princesse Yauj",
+            "Vem",
+            "Seigneur Kri",
+            "Garde de guerre Sartura",
+            "Fankriss l'Inflexible",
+            "Princesse Huhuran",
+            "Empereur Vek'lor",
+            "Empereur Vek'nilash",
+            "Ouro",
+            "Viscidus"
+        ]
+    },
+    "Insigne de seigneur qiraji" : {
+        "raid": "AQ40",
+        "bosses": [
+            "Le Prophète Skeram",
+            "Princesse Yauj",
+            "Vem",
+            "Seigneur Kri",
+            "Garde de guerre Sartura",
+            "Fankriss l'Inflexible",
+            "Princesse Huhuran",
+            "Empereur Vek'lor",
+            "Empereur Vek'nilash",
+            "Ouro",
+            "Viscidus"
+        ]
+    },
+    "Manchettes de domination qiraji" : {
+        "raid": "AQ40",
+        "bosses": [
+            "Princesse Huhuran",
+            "Viscidus"
+        ]
+    },
+    "Manchettes de commandement qiraji" : {
+        "raid": "AQ40",
+        "bosses": [
+            "Princesse Huhuran",
+            "Viscidus"
+        ]
+    },
+    "Cape de la trinité" : {
+        "raid": "AQ40",
+        "bosses": [
+            "Princesse Yauj",
+            "Vem",
+            "Seigneur Kri"
+        ]
+    },
+    "Robe du triumvirat" : {
+        "raid": "AQ40",
+        "bosses": [
+            "Princesse Yauj",
+            "Vem",
+            "Seigneur Kri"
+        ]
+    },
+    "Mantelet ternaire" : {
+        "raid": "AQ40",
+        "bosses": [
+            "Princesse Yauj",
+            "Vem",
+            "Seigneur Kri"
+        ]
+    },
+    "Semblance du dévoreur" : {
+        "raid": "AQ40",
+        "bosses": [
+            "Princesse Yauj",
+            "Vem",
+            "Seigneur Kri"
+        ]
+    },
+    "Ceinture de la triade" : {
+        "raid": "AQ40",
+        "bosses": [
+            "Princesse Yauj",
+            "Vem",
+            "Seigneur Kri"
+        ]
+    },
+    "Toucher d'Angelista" : {
+        "raid": "AQ40",
+        "bosses": [
+            "Princesse Yauj",
+            "Vem",
+            "Seigneur Kri"
+        ]
+    }
+}

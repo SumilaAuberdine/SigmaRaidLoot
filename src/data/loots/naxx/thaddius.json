@@ -1,0 +1,34 @@
+{
+    "Heaume désacralisé" : {
+        "raid": "NAXX",
+        "bosses": ["Thaddius"]
+    },
+    "Diadème désacralisé" : {
+        "raid": "NAXX",
+        "bosses": ["Thaddius"]
+    },
+    "Couvre-chef désacralisé" : {
+        "raid": "NAXX",
+        "bosses": ["Thaddius"]
+    },
+    "Jambières de polarité" : {
+        "raid": "NAXX",
+        "bosses": ["Thaddius"]
+    },
+    "Pic du crépuscule" : {
+        "raid": "NAXX",
+        "bosses": ["Thaddius"]
+    },
+    "Oeil de diminution" : {
+        "raid": "NAXX",
+        "bosses": ["Thaddius"]
+    },
+    "Thorax d'abomination blindé" : {
+        "raid": "NAXX",
+        "bosses": ["Thaddius"]
+    },
+    "Fustigatrice" : {
+        "raid": "NAXX",
+        "bosses": ["Thaddius"]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "Dague sacrificielle qiraji" : {
+        "raid": "AQ20",
+        "bosses": ["Kurinnaxx"]
+    },
+    "Habit des Sables changeants" : {
+        "raid": "AQ20",
+        "bosses": ["Kurinnaxx"]
+    },
+    "Ceinture du ravageur des sables" : {
+        "raid": "AQ20",
+        "bosses": ["Kurinnaxx"]
+    },
+    "Ceinture de l'inquisition" : {
+        "raid": "AQ20",
+        "bosses": ["Kurinnaxx"]
+    },
+    "Garde-poignets de ravageur des sables" : {
+        "raid": "AQ20",
+        "bosses": ["Kurinnaxx"]
+    },
+    "Gants en cuir de silithide raffermi" : {
+        "raid": "AQ20",
+        "bosses": ["Kurinnaxx"]
+    }
+}

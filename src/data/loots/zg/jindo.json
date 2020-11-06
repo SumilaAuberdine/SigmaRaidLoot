@@ -1,0 +1,50 @@
+{
+    "Maléficieur de Jin'do" : {
+        "raid": "ZG",
+        "bosses": ["Jin'do le Maléficieur"]
+    },
+    "Mauvais oeil de Jin'do" : {
+        "raid": "ZG",
+        "bosses": ["Jin'do le Maléficieur"]
+    },
+    "Jugement de Jin'do" : {
+        "raid": "ZG",
+        "bosses": ["Jin'do le Maléficieur"]
+    },
+    "Sac de sales tours de Jin'do" : {
+        "raid": "ZG",
+        "bosses": ["Jin'do le Maléficieur"]
+    },
+    "Bottes d'animiste" : {
+        "raid": "ZG",
+        "bosses": ["Jin'do le Maléficieur"]
+    },
+    "Coiffe tachée de sang" : {
+        "raid": "ZG",
+        "bosses": ["Jin'do le Maléficieur"]
+    },
+    "Cuissards tachés de sang" : {
+        "raid": "ZG",
+        "bosses": ["Jin'do le Maléficieur"]
+    },
+    "Jambières inondées de sang" : {
+        "raid": "ZG",
+        "bosses": ["Jin'do le Maléficieur"]
+    },
+    "Gantelets imprégnés de sang" : {
+        "raid": "ZG",
+        "bosses": ["Jin'do le Maléficieur"]
+    },
+    "Gants teintés de sang" : {
+        "raid": "ZG",
+        "bosses": ["Jin'do le Maléficieur"]
+    },
+    "Etreinte de suzerain" : {
+        "raid": "ZG",
+        "bosses": ["Jin'do le Maléficieur"]
+    },
+    "Couvre-chef du maléficieur" : {
+        "raid": "ZG",
+        "bosses": ["Jin'do le Maléficieur"]
+    }
+}

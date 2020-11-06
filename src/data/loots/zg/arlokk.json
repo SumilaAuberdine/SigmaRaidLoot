@@ -1,0 +1,26 @@
+{
+    "Etreinte d'Arlokk" : {
+        "raid": "ZG",
+        "bosses": ["Grande prêtresse Arlokk"]
+    },
+    "Volonté d'Arlokk" : {
+        "raid": "ZG",
+        "bosses": ["Grande prêtresse Arlokk"]
+    },
+    "Bâton porte-guigne d'Arlokk" : {
+        "raid": "ZG",
+        "bosses": ["Grande prêtresse Arlokk"]
+    },
+    "Grèves imprégnées de sang" : {
+        "raid": "ZG",
+        "bosses": ["Grande prêtresse Arlokk"]
+    },
+    "Anneau d'onyx du suzerain" : {
+        "raid": "ZG",
+        "bosses": ["Grande prêtresse Arlokk"]
+    },
+    "Sac en peau de panthère" : {
+        "raid": "ZG",
+        "bosses": ["Grande prêtresse Arlokk"]
+    }
+}

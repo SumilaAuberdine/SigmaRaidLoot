@@ -1,0 +1,92 @@
+{
+  "name": "Stardust",
+  "class": "Voleur",
+  "spe": "DPS",
+  "wishlist": {
+    "head": {
+      "item": "Diadème de Vek'lor",
+      "priority": 0,
+      "acquired": true
+    },
+    "neck": {
+      "item": "Talisman de perfidie de prestor",
+      "priority": 0,
+      "acquired": true
+    },
+    "shoulders": {
+      "item": "Manchettes de commandement qiraji",
+      "priority": 0,
+      "acquired": true
+    },
+    "back": {
+      "item": "Cape de concentré de haine",
+      "priority": 0,
+      "acquired": true
+    },
+    "chest": {
+      "item": "Carapace du Dieu très ancien",
+      "priority": 0,
+      "acquired": true
+    },
+    "wrists": {
+      "item": "Brassards d'exécution quiraji",
+      "priority": 3,
+      "acquired": false
+    },
+    "hands": {
+      "item": "Vieux gants en cuir du Magma",
+      "priority": 0,
+      "acquired": true
+    },
+    "waist": {
+      "item": "Ceinture d'agonie sans fin",
+      "priority": 0,
+      "acquired": true
+    },
+    "legs": {
+      "item": "Peau intacte d'Ouro",
+      "priority": 0,
+      "acquired": true
+    },
+    "feet": {
+      "item": "Manchettes de commandement qiraji",
+      "priority": 0,
+      "acquired": true
+    },
+    "ring1": {
+      "item": "Chevalière du vol de bronze",
+      "priority": 0,
+      "acquired": true
+    },
+    "ring2": {
+      "item": "Bague du Maître-tueur de dragon",
+      "priority": 0,
+      "acquired": true
+    },
+    "trinket1": {
+      "item": "Talisman croc-de-drake",
+      "priority": 0,
+      "acquired": true
+    },
+    "trinket2": {
+      "item": "Choc de terre",
+      "priority": 0,
+      "acquired": true
+    },
+    "mainhand": {
+      "item": "Aiguillon de la mort",
+      "priority": 1,
+      "acquired": false
+    },
+    "offhand": {
+      "item": "Armes impériales qiraji",
+      "priority": 0,
+      "acquired": true
+    },
+    "ranged": {
+      "item": "Marque du Frappeur",
+      "priority": 0,
+      "acquired": true
+    }
+  }
+}
